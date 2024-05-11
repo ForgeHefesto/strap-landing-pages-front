@@ -11,7 +11,6 @@ const preview = {
         date: /Date$/i,
       },
     },
-    actions: { argTypesRegex: '^on[A-Z].*' },
     backgrounds: {
       default: 'light',
       values: [

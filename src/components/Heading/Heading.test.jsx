@@ -69,10 +69,7 @@ describe('<Heading />', () => {
     const { rerender } = renderTheme(<Heading size="huge">texto</Heading>);
     const heading = screen.getByRole('heading', { name: 'texto' });
 
-    expect(heading).toHaveStyleRule(
-      'font-size',
-      theme.fonts.sizes.xhuge,
-    );
+    expect(heading).toHaveStyleRule('font-size', theme.fonts.sizes.xhuge);
   });
 
   it('should render with uppercase letter', () => {
@@ -85,10 +82,14 @@ describe('<Heading />', () => {
   });
 
   it('should render correct heading element', () => {
-    const {container} = renderTheme(<Heading as='h6'>texto</Heading>);
+    const { container } = renderTheme(<Heading as="h6">texto</Heading>);
     const heading = screen.getByRole('heading', { name: 'texto' });
     const h6 = container.querySelector('h6');
 
-    expect(h6.tagName.toLowerCase()).toBe("h6");
+    expect(h6.tagName.toLowerCase()).toBe('h6');
+  });
+  it('should match snapshot', () => {
+    const { container } = renderTheme(<Heading>Children</Heading>);
+    expect(container.firstChild).toMatchSnapshot();
   });
 });
