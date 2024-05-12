@@ -4,6 +4,7 @@ export const theme = {
     secondaryColor: '#dc143C',
     lightBg: '#FFFFFF',
     darkBg: '#0A1128',
+    mediumGray: '#DDDDDD',
   },
   fonts: {
     family: {
@@ -32,11 +33,11 @@ export const theme = {
     xhuge: '6.4rem',
   },
   media: {
-    IteMedium: '(max-width: 768px)',
-    IteLarge: '(max-width: 992px)',
-    IteExtraLarge: '(max-width: 1200px)',
-    IteExtraExtraLarge: '(max-width: 1400px)',
-    IteExtraExtraExtraLarge: '(max-width: 1600px)',
-    IteExtraExtraExtraExtraLarge: '(max-width: 1800px)',
+    IteMedium: '(max-width:768px)',
+    IteLarge: '(max-width:992px)',
+    IteExtraLarge: '(max-width:1200px)',
+    IteExtraExtraLarge: '(max-width:1400px)',
+    IteExtraExtraExtraLarge: '(max-width:1600px)',
+    IteExtraExtraExtraExtraLarge: '(max-width:1800px)',
   },
 };

@@ -3,7 +3,7 @@ import * as Styled from './style';
 
 export const Heading = ({
   children,
-  colorFont = false,
+  colorFont = true,
   as = 'h1',
   size = 'big',
   uppercase = false,

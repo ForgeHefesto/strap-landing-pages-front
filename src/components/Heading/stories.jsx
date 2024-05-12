@@ -5,6 +5,7 @@ export default {
   component: Heading,
   args: {
     children: 'Logo',
+    colorFont: false,
   },
   argTypes: {
     children: {

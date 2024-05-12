@@ -2,11 +2,7 @@ import * as Styled from './style';
 import P from 'prop-types';
 
 export const TextComponent = ({ children }) => {
-  return (
-    <div>
-      <Styled.Container>{children}</Styled.Container>
-    </div>
-  );
+  return <Styled.Container dangerouslySetInnerHTML={{ __html: children }} />;
 };
 
 TextComponent.propTypes = {
