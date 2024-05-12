@@ -16,7 +16,7 @@ export const Container = styled.div`
     right: 0;
     width: 100%;
     border-bottom: ${theme.colors.mediumGray};
-    background: ${theme.colors.lightBG};
+    background: ${theme.colors.lightBg};
     transition: all 300ms ease-in-out;
 
     > ${SectionContainer} {
@@ -85,6 +85,7 @@ export const Button = styled.button`
       display: flex;
       align-items: center;
       justify-content: center;
+      z-index: 6;
     }
 
     > svg {
