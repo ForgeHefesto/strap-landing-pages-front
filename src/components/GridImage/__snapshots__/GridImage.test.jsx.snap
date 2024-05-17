@@ -79,7 +79,6 @@ exports[`<GridImage /> should render with default values 1`] = `
         >
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=1"
           >
             <img
               alt="Test 1"
@@ -89,7 +88,6 @@ exports[`<GridImage /> should render with default values 1`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=2"
           >
             <img
               alt="Test 2"
@@ -99,7 +97,6 @@ exports[`<GridImage /> should render with default values 1`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=3"
           >
             <img
               alt="Test 3"
@@ -109,7 +106,6 @@ exports[`<GridImage /> should render with default values 1`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=4"
           >
             <img
               alt="Test 4"
@@ -119,7 +115,6 @@ exports[`<GridImage /> should render with default values 1`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=5"
           >
             <img
               alt="Test 5"
@@ -129,7 +124,6 @@ exports[`<GridImage /> should render with default values 1`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=6"
           >
             <img
               alt="Test 6"
@@ -223,7 +217,6 @@ exports[`<GridImage /> should render with default values 2`] = `
         >
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=1"
           >
             <img
               alt="Test 1"
@@ -233,7 +226,6 @@ exports[`<GridImage /> should render with default values 2`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=2"
           >
             <img
               alt="Test 2"
@@ -243,7 +235,6 @@ exports[`<GridImage /> should render with default values 2`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=3"
           >
             <img
               alt="Test 3"
@@ -253,7 +244,6 @@ exports[`<GridImage /> should render with default values 2`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=4"
           >
             <img
               alt="Test 4"
@@ -263,7 +253,6 @@ exports[`<GridImage /> should render with default values 2`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=5"
           >
             <img
               alt="Test 5"
@@ -273,7 +262,6 @@ exports[`<GridImage /> should render with default values 2`] = `
           </div>
           <div
             class="c7"
-            key="http://source.unsplash.com/random/800x800?r=6"
           >
             <img
               alt="Test 6"

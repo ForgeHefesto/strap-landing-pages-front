@@ -431,7 +431,6 @@ exports[`<Base /> should render with default values 1`] = `
           >
             <div
               class="c18"
-              key="Test 1"
             >
               <h3
                 class="c6 c19"
@@ -446,7 +445,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 2"
             >
               <h3
                 class="c6 c19"
@@ -461,7 +459,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 3"
             >
               <h3
                 class="c6 c19"
@@ -502,7 +499,6 @@ exports[`<Base /> should render with default values 1`] = `
           >
             <div
               class="c18"
-              key="Test 1"
             >
               <h3
                 class="c6 c22"
@@ -517,7 +513,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 2"
             >
               <h3
                 class="c6 c22"
@@ -532,7 +527,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 3"
             >
               <h3
                 class="c6 c22"
@@ -573,7 +567,6 @@ exports[`<Base /> should render with default values 1`] = `
           >
             <div
               class="c18"
-              key="Test 1"
             >
               <h3
                 class="c6 c19"
@@ -588,7 +581,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 2"
             >
               <h3
                 class="c6 c19"
@@ -603,7 +595,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 3"
             >
               <h3
                 class="c6 c19"
@@ -644,7 +635,6 @@ exports[`<Base /> should render with default values 1`] = `
           >
             <div
               class="c18"
-              key="Test 1"
             >
               <h3
                 class="c6 c22"
@@ -659,7 +649,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 2"
             >
               <h3
                 class="c6 c22"
@@ -674,7 +663,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 3"
             >
               <h3
                 class="c6 c22"
@@ -715,7 +703,6 @@ exports[`<Base /> should render with default values 1`] = `
           >
             <div
               class="c18"
-              key="Test 1"
             >
               <h3
                 class="c6 c22"
@@ -730,7 +717,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 2"
             >
               <h3
                 class="c6 c22"
@@ -745,7 +731,6 @@ exports[`<Base /> should render with default values 1`] = `
             </div>
             <div
               class="c18"
-              key="Test 3"
             >
               <h3
                 class="c6 c22"

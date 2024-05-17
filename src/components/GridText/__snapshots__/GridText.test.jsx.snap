@@ -96,7 +96,6 @@ exports[`<GridText /> should render with default values 1`] = `
         >
           <div
             class="c8"
-            key="Test 1"
           >
             <h3
               class="c3 c9"
@@ -111,7 +110,6 @@ exports[`<GridText /> should render with default values 1`] = `
           </div>
           <div
             class="c8"
-            key="Test 2"
           >
             <h3
               class="c3 c9"
@@ -126,7 +124,6 @@ exports[`<GridText /> should render with default values 1`] = `
           </div>
           <div
             class="c8"
-            key="Test 3"
           >
             <h3
               class="c3 c9"
@@ -242,7 +239,6 @@ exports[`<GridText /> should render without background 1`] = `
         >
           <div
             class="c8"
-            key="Test 1"
           >
             <h3
               class="c3 c9"
@@ -257,7 +253,6 @@ exports[`<GridText /> should render without background 1`] = `
           </div>
           <div
             class="c8"
-            key="Test 2"
           >
             <h3
               class="c3 c9"
@@ -272,7 +267,6 @@ exports[`<GridText /> should render without background 1`] = `
           </div>
           <div
             class="c8"
-            key="Test 3"
           >
             <h3
               class="c3 c9"
